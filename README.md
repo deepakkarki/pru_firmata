@@ -100,4 +100,4 @@ Arguments
 * PWM[#]
 * TMR[#]
 
-Example: noduino 'dw(13, 1)' becomes 'SET DIO[13],1'
+Example: 'digitalWrite(13, HIGH)' becomes 'SET DIO[13],1'
